@@ -9,7 +9,32 @@ Official TypeScript/JavaScript SDK for zkHole - enabling anonymous transactions 
 
 ## Installation
 
+### From npm (Recommended)
+
 ```bash
+npm install @zkhole/sdk @solana/web3.js
+```
+
+### From GitHub Packages
+
+If you prefer to install from GitHub Packages, first configure your `.npmrc`:
+
+```bash
+echo "@zkhole:registry=https://npm.pkg.github.com" >> .npmrc
+```
+
+Then authenticate with your GitHub Personal Access Token:
+
+```bash
+npm login --scope=@zkhole --auth-type=legacy --registry=https://npm.pkg.github.com
+```
+
+Finally, install the package:
+
+```bash
+npm install @zkhole/sdk @solana/web3.js
+```
+
 npm install @zkhole/sdk @solana/web3.js
 ```
 
