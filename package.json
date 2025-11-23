@@ -23,8 +23,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zkhole/zkhole-sdk"
+    "url": "git+https://github.com/zkHole/zkhole-sdk.git"
   },
+  "bugs": {
+    "url": "https://github.com/zkHole/zkhole-sdk/issues"
+  },
+  "homepage": "https://zkhole.io",
   "files": [
     "dist",
     "README.md"

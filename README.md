@@ -1,5 +1,10 @@
 # zkHole SDK
 
+[![npm version](https://img.shields.io/npm/v/@zkhole/sdk.svg)](https://www.npmjs.com/package/@zkhole/sdk)
+[![npm downloads](https://img.shields.io/npm/dm/@zkhole/sdk.svg)](https://www.npmjs.com/package/@zkhole/sdk)
+[![GitHub release](https://img.shields.io/github/v/release/zkHole/zkhole-sdk)](https://github.com/zkHole/zkhole-sdk/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Official TypeScript/JavaScript SDK for zkHole - enabling anonymous transactions on Solana.
 
 ## Installation
@@ -174,6 +179,18 @@ MIT
 
 ## Links
 
-- [Documentation](https://zkhole.io/docs)
-- [Website](https://zkhole.io)
-- [GitHub](https://github.com/zkhole/zkhole-sdk)
+- 📦 [npm Package](https://www.npmjs.com/package/@zkhole/sdk)
+- 📚 [Documentation](https://zkhole.io/docs)
+- 🌐 [Website](https://zkhole.io)
+- 💻 [GitHub](https://github.com/zkHole/zkhole-sdk)
+- 📋 [Changelog](https://github.com/zkHole/zkhole-sdk/blob/main/CHANGELOG.md)
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Support
+
+- 🐛 [Report Issues](https://github.com/zkHole/zkhole-sdk/issues)
+- 💬 [Discussions](https://github.com/zkHole/zkhole-sdk/discussions)
+- 🐦 [Twitter/X](https://x.com/zkholexyz)
