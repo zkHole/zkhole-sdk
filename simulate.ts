@@ -142,8 +142,8 @@ async function simulateTransaction() {
 
     console.log("\n\n🎉 Simulation Complete!\n");
     console.log("=".repeat(50));
-    console.log("📚 View full documentation at: https://zkhole.io/docs");
-    console.log("💻 GitHub: https://github.com/zkholedev/zkhole-sdk");
+    console.log("📚 View full documentation at: https://zk-hole.xyz/docs");
+    console.log("💻 GitHub: https://github.com/zkHole/zkhole-sdk");
     console.log("=".repeat(50));
   } catch (error: any) {
     console.error("\n❌ Error during simulation:", error.message);
