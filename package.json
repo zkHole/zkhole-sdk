@@ -1,6 +1,6 @@
 {
   "name": "@zkhole/sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Official SDK for zkHole - Anonymous transactions on Solana",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
