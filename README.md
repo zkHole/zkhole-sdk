@@ -180,8 +180,8 @@ MIT
 ## Links
 
 - 📦 [npm Package](https://www.npmjs.com/package/@zkhole/sdk)
-- 📚 [Documentation](https://zkhole.io/docs)
-- 🌐 [Website](https://zkhole.io)
+- 📚 [Documentation](https://zk-hole.xyz/docs)
+- 🌐 [Website](https://zk-hole.xyz)
 - 💻 [GitHub](https://github.com/zkHole/zkhole-sdk)
 - 📋 [Changelog](https://github.com/zkHole/zkhole-sdk/blob/main/CHANGELOG.md)
 
