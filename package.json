@@ -54,8 +54,5 @@
   },
   "peerDependencies": {
     "@solana/web3.js": "^1.87.0"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   }
 }
