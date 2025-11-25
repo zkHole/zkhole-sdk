@@ -1,6 +1,6 @@
 {
   "name": "@zkhole/sdk",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "description": "Official SDK for zkHole - Privacy-preserving protocol suite for Solana including BlackHole mixer, HoleID identity, HoleMail messaging, and HoleSwap DEX",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
