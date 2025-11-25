@@ -1,7 +1,7 @@
 {
   "name": "@zkhole/sdk",
-  "version": "0.1.1",
-  "description": "Official SDK for zkHole - Anonymous transactions on Solana",
+  "version": "0.2.0",
+  "description": "Official SDK for zkHole - Privacy-preserving protocol suite for Solana including BlackHole mixer, HoleID identity, HoleMail messaging, and HoleSwap DEX",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -17,7 +17,13 @@
     "privacy",
     "anonymous",
     "transactions",
-    "zero-knowledge"
+    "zero-knowledge",
+    "identity",
+    "messaging",
+    "dex",
+    "swap",
+    "encryption",
+    "mev-protection"
   ],
   "author": "zkHole Team",
   "license": "MIT",
